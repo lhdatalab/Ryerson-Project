@@ -1,5 +1,5 @@
 # Ryerson-Project
-Capstone project -  based on spatiotemporal modelling. See CKME136_Project_PPT_LauraHoyte.pdf for summary. 
+Capstone project -  based on spatiotemporal modelling. See CKME136_Project_PPT.pdf for summary. 
 ### Title:
 ### What can the people in New York City possibly have in common with those in Scottsdale Arizona?
 ##### Can spatiotemporal techniques be used to extract local knowledge from global data?
